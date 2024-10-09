@@ -1,0 +1,9 @@
+---
+title: "Week 2 Discussion"
+format: html
+---
+
+```{r}
+
+```
+
